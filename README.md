@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#A020F0">Kalyan Kumar</span></h1>
 <p align="center">
-🚀 AI Engineer | Machine Learning Specialist | Full-stack MLOps Developer
+🚀 AI Engineer | Data Scientist | Machine Learning Specialist | Full-stack MLOps Developer
 </p>
 
 ---
