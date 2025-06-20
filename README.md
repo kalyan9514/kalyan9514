@@ -5,21 +5,21 @@ Hi, I’m a Data Scientist with 5+ years of experience building and deploying AI
 
 What I do best:
 
-Demand Forecasting using ARIMA, XGBoost, and LSTM
+Demand forecasting using ARIMA, XGBoost, and LSTM
 
-Fraud Detection and Anomaly Detection at scale
+Fraud detection and anomaly detection at scale
 
-ML Deployment & Automation with FastAPI, Airflow, Docker, and Kubernetes
+ML deployment and automation with FastAPI, Airflow, Docker, and Kubernetes
 
-Cloud Platforms: GCP & AWS
+Cloud platforms: GCP and AWS
 
 Highlights from my work at Dunzo:
 
-Built predictive ETA and dynamic routing models using Reinforcement Learning and Graph Algorithms → improved delivery speed and ETA accuracy across 150+ dark stores
+Built predictive ETA and dynamic routing models using reinforcement learning and graph algorithms — improved delivery speed and ETA accuracy across 150+ dark stores
 
-Designed a real-time fraud detection pipeline for 1M+ transactions/month → reduced false positives by 15% and saved 100+ engineering hours/week
+Designed a real-time fraud detection pipeline for 1M+ transactions per month — reduced false positives by 15% and saved 100+ engineering hours per week
 
-Developed demand forecasting for 600+ SKUs → reduced stockouts by 5%, improved shelf-life by 20%, and contributed $2M+ in revenue
+Developed demand forecasting for 600+ SKUs — reduced stockouts by 5%, improved shelf-life by 20%, and contributed over $2M in revenue
 
 Engineered end-to-end ML pipelines using SQL, Python, Kafka, and Airflow
 
@@ -27,9 +27,10 @@ Earlier in my career:
 
 As a Quality Engineer, improved system reliability by 40% through automated testing (Selenium, Jenkins) and CI/CD enhancements
 
-Reduced QA cycle time by 30% and executed over 100,000+ test runs
+Reduced QA cycle time by 30% and executed over 100,000 automated test runs
 
-I'm passionate about aligning AI with business strategy—whether it’s enabling GTM growth, optimizing operations, or enhancing customer experience.
+I’m passionate about aligning AI with business strategy — whether it’s enabling GTM growth, optimizing operations, or enhancing customer experience.
+
 
 ---
 
