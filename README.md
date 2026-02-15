@@ -38,7 +38,7 @@ I’m passionate about aligning AI with business strategy — whether it’s ena
 ---
 
 ## 📬 Contact Me  
-📧 **Email:** [kalyankumar194@gmail.com](mailto:kalyankumar194@gmail.com)  
+📧 **Email:** [95kalyan.us@gmail.com](mailto:95kalyan.us@gmail.com)  
 💻 **GitHub:** [github.com/kalyan9514](https://github.com/kalyan9514)  
 🔗 **LinkedIn:** [linkedin.com/in/kalyan-kumar-8170a111b](https://www.linkedin.com/in/kalyan-kumar-8170a111b/)  
 
