@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kalyan!
 
 ## 🚀 About Me  
-Hi, I’m an ML Engineer with 3+ years of experience building and deploying AI solutions across e-commerce, logistics, and healthcare. I focus on creating real-world impact through machine learning, MLOps, and data engineering.
+Hi, I’m an ML Engineer with 5+ years of experience building and deploying AI solutions across e-commerce, logistics, and healthcare. I focus on creating real-world impact through machine learning, MLOps, and data engineering.
 
 **What I do best:**
 
