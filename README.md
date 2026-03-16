@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kalyan!
 
 ## 🚀 About Me  
-Hi, I’m an ML Engineer with 3+ years of experience building and deploying AI solutions across e-commerce, logistics, and healthcare. I focus on creating real-world impact through machine learning, MLOps, and data engineering.
+Hi, I’m a Software Engineer, AI/ML with 3+ years of experience building and deploying AI solutions across e-commerce, logistics, and healthcare. I focus on creating real-world impact through machine learning, MLOps, and data engineering.
 
 **What I do best:**
 
@@ -12,17 +12,12 @@ Hi, I’m an ML Engineer with 3+ years of experience building and deploying AI s
 
 **Highlights from my work at Dunzo:**
 
-- Built predictive ETA and dynamic routing models using reinforcement learning and graph algorithms — improved delivery speed and ETA accuracy across 150+ dark stores
-- Designed a real-time fraud detection pipeline for 1M+ transactions per month — reduced false positives by 15% and saved 100+ engineering hours per week
-- Developed demand forecasting for 600+ SKUs — reduced stockouts by 5%, improved shelf-life by 20%, and contributed over $2M in revenue
+- Built predictive ETA and dynamic routing models using reinforcement learning and graph algorithms, improved delivery speed and ETA accuracy across 150+ dark stores
+- Designed a real-time fraud detection pipeline for 1M+ transactions per month, reduced false positives by 15% and saved 100+ engineering hours per week
+- Developed demand forecasting for 600+ SKUs, reduced stockouts by 5%, improved shelf-life by 20%, and contributed over $2M in revenue
 - Engineered end-to-end ML pipelines using SQL, Python, Kafka, and Airflow
 
-**Earlier in my career:**
-
-- As a Quality Engineer, improved system reliability by 40% through automated testing (Selenium, Jenkins) and CI/CD enhancements
-- Reduced QA cycle time by 30% and executed over 100,000 automated test runs
-
-I’m passionate about aligning AI with business strategy — whether it’s enabling GTM growth, optimizing operations, or enhancing customer experience.
+I’m passionate about aligning AI with business strategy, whether it’s enabling GTM growth, optimizing operations, or enhancing customer experience.
 
 
 ---
