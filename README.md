@@ -1,53 +1,55 @@
-# Hi there 👋, I'm Kalyan!
+# Hi, I'm Kalyan 👋
 
-## 🚀 About Me  
-Hi, I’m a Software Engineer, AI/ML with 3+ years of experience building and deploying AI solutions across e-commerce, logistics, and healthcare. I focus on creating real-world impact through machine learning, MLOps, and data engineering.
-
-**What I do best:**
-
-- Demand forecasting using ARIMA, XGBoost, and LSTM
-- Fraud detection and anomaly detection at scale
-- ML deployment and automation with FastAPI, Airflow, Docker, and Kubernetes
-- Cloud platforms: GCP and AWS
-
-**Highlights from my work at Dunzo:**
-
-- Built predictive ETA and dynamic routing models using reinforcement learning and graph algorithms, improved delivery speed and ETA accuracy across 150+ dark stores
-- Designed a real-time fraud detection pipeline for 1M+ transactions per month, reduced false positives by 15% and saved 100+ engineering hours per week
-- Developed demand forecasting for 600+ SKUs, reduced stockouts by 5%, improved shelf-life by 20%, and contributed over $2M in revenue
-- Engineered end-to-end ML pipelines using SQL, Python, Kafka, and Airflow
-
-I’m passionate about aligning AI with business strategy, whether it’s enabling GTM growth, optimizing operations, or enhancing customer experience.
-
+AI/ML Engineer with 5+ years building real-time ML systems, agentic AI pipelines, and scalable backend services. Currently based in Seattle, WA.
 
 ---
 
-## 🛠 Technical Skills  
-**Languages/Libraries:** Python, SQL, Scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face, Streamlit, Llama  
-**Data Visualization:** Tableau, Power BI  
-**Software Ecosystem:** Docker, GCP, AWS, Kubernetes, Jenkins, GitHub, Figma, JIRA, Kibana, Django, Firebase, Redis, Redash, Confluence  
-**Data Ecosystem:** MongoDB, Redshift, Redis, Redash, Postgres  
-**Orchestration/Integration:** Apache Airflow, Kafka, BigQuery, MLOps, LangChain, LangGraph  
-**Competencies:** Data Analysis, Data Science, Machine Learning, Deep Learning, Natural Language Processing, Generative AI, RAG (Retrieval Augmented Generation), Statistical and Predictive Modeling, Operations Research, Quality Engineering  
+## What I Work On
+
+- **Agentic AI & LLMs** — Multi-agent orchestration, RAG pipelines, LangChain, OpenAI/Anthropic APIs
+- **Real-time ML Systems** — Fraud detection, demand forecasting, rider assignment, recommendation engines
+- **MLOps & Infrastructure** — Docker, Kubernetes, Airflow, MLflow, model monitoring, A/B testing
+- **Cloud** — AWS (S3, Redshift, EKS), GCP (Vertex AI, Cloud Run, Cloud SQL), Azure
 
 ---
 
-## 📬 Contact Me  
-📧 **Email:** [95kalyan.us@gmail.com](mailto:95kalyan.us@gmail.com)  
-💻 **GitHub:** [github.com/kalyan9514](https://github.com/kalyan9514)  
-🔗 **LinkedIn:** [linkedin.com/in/kalyan-kumar-8170a111b](https://www.linkedin.com/in/kalyan-kumar-8170a111b/)  
+## Featured Projects
 
-<!--
-**kalyan9514/kalyan9514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [Supply-Chain-Demand-Forecasting](https://github.com/kalyan9514/Supply-Chain-Demand-Forecasting) | Python, TensorFlow, Airflow, Vertex AI, Terraform, GCP | LSTM demand forecasting with full MLOps pipeline on GCP |
+| [SafeSpace-AI](https://github.com/kalyan9514/SafeSpace-AI-Mental-Health-Diagnosis-and-Agent-System) | Python, Gemma-2, RAG, LangChain, Gradio, Streamlit | Mental health diagnosis system with voice input and LangChain agent |
+| [Cardiovascular-Disease-Risk-Prediction](https://github.com/kalyan9514/Cardiovascular-Disease-Risk-Prediction) | Python, TensorFlow, XGBoost, scikit-learn | 6-model CVD risk prediction with Neural Network achieving 90% accuracy |
+| [Hallucination-Mitigation-Mental-Health-LLM-RAG](https://github.com/kalyan9514/Hallucination-Mitigation-Mental-Health-LLM-RAG) | Python, Gemma-2, FAISS, RAG | Multi-phase LLM pipeline reducing hallucination rate from 35% to 5.2% |
+| [Wikipedia-QA-and-Topic-Classification](https://github.com/kalyan9514/Wikipedia-QA-and-Topic-Classification-using-Langchain) | Python, BERT, TensorFlow, PyTorch | QA system with Siamese Network at 96.85% accuracy |
+| [html-kafka-ingestor](https://github.com/kalyan9514/html-kafka-ingestor) | Go, Kafka, MySQL, Prometheus, Grafana | Production-grade data pipeline deployed on Railway |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience Highlights
+
+**Humanitarians AI** — Multi-agent LLM pipeline for image retrieval across 9,000+ images, cutting curation time by 90%
+
+**Docstribe AI** — Clinical recommendation system using Bedrock, ClinicalBERT, and LangChain, reducing review time by 35%
+
+**Dunzo** — Real-time fraud detection on 1M+ monthly orders, SKU recommendation for 18K+ items boosting AOV by 23%, ETL pipelines driving $2M+ revenue
+
+---
+
+## Tech Stack
+
+```
+ML/DL       PyTorch · TensorFlow · XGBoost · scikit-learn · Hugging Face
+LLMs        LangChain · RAG · Multi-Agent · OpenAI · Anthropic · Gemma
+MLOps       Docker · Kubernetes · Airflow · MLflow · Model Monitoring
+Cloud       AWS · GCP (Vertex AI, Cloud Run) · Azure
+Data        PostgreSQL · MongoDB · Redis · Redshift · Kafka
+Languages   Python · SQL · Go · TypeScript · Bash
+```
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyan-kumar-8170a111b/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kalyan9514)
