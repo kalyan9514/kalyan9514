@@ -49,7 +49,14 @@ Languages   Python · SQL · Go · TypeScript · Bash
 
 ---
 
+## GitHub Stats
+
+![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalyan9514&show_icons=true&theme=dark&hide_border=true)
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyan-kumar-8170a111b/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kalyan9514)
+📧 [95kalyan.us@gmail.com](mailto:95kalyan.us@gmail.com)
