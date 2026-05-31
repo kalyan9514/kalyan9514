@@ -51,7 +51,7 @@ Languages   Python · SQL · Go · TypeScript · Bash
 
 ## GitHub Stats
 
-![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalyan9514&show_icons=true&theme=dark&hide_border=true)
+![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalyan9514&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
