@@ -1,6 +1,6 @@
 # Hi, I'm Kalyan 👋
 
-AI/ML Engineer with 5+ years building real-time ML systems, agentic AI pipelines, and scalable backend services. Currently based in Seattle, WA.
+AI/ML Engineer with 5+ years building real-time ML systems, agentic AI pipelines, & scalable backend services on AWS & Azure. Hands-on with LLM orchestration, multi-agent frameworks, & RAG-based systems in production. Strong foundations in end-to-end ML development, system design, & deploying production-grade models (PyTorch/XGBoost) for high-impact, large-scale products.
 
 ---
 
